@@ -1,4 +1,4 @@
-<h1>Hi, I'm Venell, an <a href= https://www.linkedin.com/in/venell-james-645ab1272?trk>IT Professional</a>☺</h1>
+<h1>Hi, I'm Venell, an <a href= https://www.linkedin.com/in/venell-james-645ab1272?trk>IT Enthusiast</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
